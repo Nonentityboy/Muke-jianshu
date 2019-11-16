@@ -114,8 +114,6 @@ npm start
 │  │  │  style.js
 │  │  │
 │  │  └─store
-│  │          actionCreators.js
-│  │          constains.js
 │  │          index.js
 │  │          reducer.js
 │  │
